@@ -1,6 +1,6 @@
 # Hi, I'm Prabuddha Tamhane 👋
 
-**Quant Aspirant & Data Scientist** | Master of Data Science @ UBC | MBA Finance + B.Tech
+**Data Scientist & ML Engineer** | Master of Data Science @ UBC | MBA Finance + B.Tech
 
 I build data-driven solutions at the intersection of **finance** and **machine learning**.
 
@@ -9,7 +9,7 @@ I build data-driven solutions at the intersection of **finance** and **machine l
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### [Paper Trader AI](https://github.com/PAT0216/paper-trader) — Algorithmic Trading System
 > A production-grade MLOps system with 3 strategies competing live on S&P 500 stocks
@@ -21,7 +21,7 @@ I build data-driven solutions at the intersection of **finance** and **machine l
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, SQL, R, C++, JavaScript  
 **ML/Data:** TensorFlow, PyTorch, XGBoost, Scikit-learn, Pandas, NumPy  
@@ -29,17 +29,17 @@ I build data-driven solutions at the intersection of **finance** and **machine l
 
 ---
 
-## 📚 Education
+## Education
 
 🎓 **Master of Data Science** — University of British Columbia *(2025-2026)*  
 🎓 **MBA Finance + B.Tech Computer Engineering** — NMIMS University
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🌐 **Website:** [pat0216.github.io](https://pat0216.github.io)
 - 💼 **LinkedIn:** [prabuddha-tamhane](https://linkedin.com/in/prabuddha-tamhane)
 - 📧 **Email:** prabuddha.tamhane@gmail.com
 
-*Open to opportunities in Data Science, Quantitative Finance, and Financial Analytics*
+*Open to opportunities in Data Science, Machine Learning Engineering, Financial Analytics, and Business Analytics*
