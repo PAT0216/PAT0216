@@ -40,6 +40,5 @@ I build data-driven solutions at the intersection of **finance** and **machine l
 
 - 🌐 **Website:** [pat0216.github.io](https://pat0216.github.io)
 - 💼 **LinkedIn:** [prabuddha-tamhane](https://linkedin.com/in/prabuddha-tamhane)
-- 📧 **Email:** prabuddha.tamhane@gmail.com
 
 *Open to opportunities in Data Science, Machine Learning Engineering, Financial Analytics, and Business Analytics*
