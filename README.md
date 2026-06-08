@@ -11,7 +11,7 @@ I build data-driven solutions at the intersection of **finance** and **machine l
 
 ## Featured Project
 
-### [Square One Satellite Imagery Roof Classifier](https://github.com/PAT0216/mds-satellite-imagery) — Deep Learning & MLOps
+### Square One Satellite Imagery Roof Classifier — Deep Learning & MLOps
 > An automated property attribute pre-filling pipeline using vision transformers and confidence
 calibration.
 
