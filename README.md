@@ -32,13 +32,15 @@ achieve 96.83% precision and 35.46% coverage at the 95% confidence threshold.
 projections using MLflow hosted on AWS (EC2/S3).
 
 
-### [Paper Trader AI](https://github.com/PAT0216/paper-trader) — Algorithmic Trading System
-> A production-grade MLOps system with 3 strategies competing live on S&P 500 stocks
+### [Paper Trader AI — Algorithmic Trading System](https://github.com/PAT0216/paper-trader)
 
-- 📊 **4.3M+ data points** | 503 tickers | 9 years backtested
-- 🤖 Momentum vs XGBoost vs LSTM — competing head-to-head
-- ⚙️ Automated daily trading via GitHub Actions + Docker
-- 📈 [Live Dashboard](https://paper-trader-ai.streamlit.app/)
+> A production-grade, serverless MLOps system with 3 predictive strategies competing live on the S&P 500.
+
+- 📊 **Alpha-Driven Strategy Performance**: Achieved a **+18.8% Alpha over SPY** (cumulative excess return) and a **1.54 Sharpe ratio** over a **7-month live run** (Oct 2025 – May 2026), outperforming SPY (+3.94%) with a -9.1% maximum drawdown limit.
+- 🤖 **Multi-Model Machine Learning Engine**: Evaluates three competing strategies: Fama-French momentum factor model, XGBoost classifier with 15 technical indicators (RSI, MACD, etc.), and an LSTM network utilizing 60-day price sequences across **503 tickers** backtested on **9 years** of historical data.
+- ⚙️ **Dockerized AWS MLOps Pipeline**: Daily automated ETL pipelines and parallel inference scheduled via EventBridge and run on containerized AWS Lambda functions, persisting prediction logs to S3 and SQLite cache.
+- 📈 **Streamlit Dashboard & CI/CD**: Live Streamlit application hosting real-time strategy returns, performance benchmark charts, and automated daily model health checks backed by automated GitHub Actions tests.
+- 🔗 [Live Dashboard](https://paper-trader-ai.streamlit.app/)
 
 
 ### [Amazon Product Query Assistant](https://github.com/UBC-MDS/Amazon_recommender_search_assistant) — Hybrid RAG Search Assistant
