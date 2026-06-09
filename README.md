@@ -13,6 +13,14 @@ I build data-driven solutions at the intersection of **finance** and **machine l
 
 ## Github Stats
 <div align="center"><img src="https://streak-stats.demolab.com?user=pat0216&theme=default&hide_border=true" alt="pat0216's GitHub Stats" /><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false"> <img  alt="pat0216's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pat0216?cardType=level&fontFamily=&preferLogin=false" />  </a></div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAT0216/PAT0216/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAT0216/PAT0216/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/PAT0216/PAT0216/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
   
 ---
 
