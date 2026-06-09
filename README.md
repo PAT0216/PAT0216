@@ -24,7 +24,7 @@ I build data-driven solutions at the intersection of **finance** and **machine l
   
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Square One Satellite Imagery Roof Classifier — Deep Learning & MLOps
 > An automated property attribute pre-filling pipeline using vision transformers and confidence
