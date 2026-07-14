@@ -1,8 +1,8 @@
 # Hi, I'm Prabuddha Tamhane 
 
-**Data Scientist & ML Engineer** | Master of Data Science @ UBC | MBA Finance + B.Tech
+**Data Scientist & ML Engineer** | Master of Data Science @ UBC | B.Tech CS + MBA Finance
 
-I build data-driven solutions at the intersection of **finance** and **machine learning**.
+I build data-driven solutions at the intersection of **Machine Learning** and **Finance**.
 
 [![Website](https://img.shields.io/badge/Portfolio-pat0216.github.io-00ff88?style=for-the-badge&logo=github)](https://pat0216.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prabuddha--tamhane-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prabuddha-tamhane)
